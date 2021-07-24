@@ -23,7 +23,7 @@ country name using NLP technics and clustering algorithms.
 
 
 # GUI:
-<img url="">
+<img url="https://github.com/hafid34bba/Similar-country-partners-recommendation/blob/main/design.png">
 
 
 
