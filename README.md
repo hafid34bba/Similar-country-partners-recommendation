@@ -1,6 +1,6 @@
 # Similar-country-partners-recommendation
 
-This project aim to recommend similair parnters for user according to input description and selected 
+This project aim to recommend similair parnters for user according to input description and selected <br>
 country name using NLP technics and clustering algorithms.
 
 # Steps involved while building the model:
