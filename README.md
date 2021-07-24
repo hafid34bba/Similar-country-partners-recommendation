@@ -22,6 +22,10 @@ country name using NLP technics and clustering algorithms.
 11-	Display nearst partners <br>
 
 
+# GUI:
+<img url="">
+
+
 
 
 
