@@ -6,7 +6,7 @@ country name using NLP technics and clustering algorithms.
 # Steps involved while building the model:
 1-	Get the country name and description from the user
 2-	Read and clean the data <br>
-    &nbsp;&nbsp;-read data<br>
+    * -read data<br>
     &nbsp&nbsp- remove all rows with Nan description<br>
     &nbsp&nbsp- extract country name from contact_information <br>
     &nbsp&nbsp- select rows where country_name = input_country_name<br>
