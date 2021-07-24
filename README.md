@@ -1,7 +1,12 @@
 # Similar-country-partners-recommendation
 
 This project aim to recommend similair parnters for user according to input description and selected <br>
-country name using NLP technics and clustering algorithms.
+country name using NLP technics and clustering algorithms.<br>
+
+data used for that project is Scopus List of Indexed Journals
+
+# What Are Scopus Journals?
+Scopus is one of the largest, most reputable abstract and citation databases for academic literature. It contains over 40,000 titles from more than 10,000 international publishers, and nearly 35,000 of these publications are peer-reviewed. Scopus covers various formats (books, journals, conference papers, etc.) in the fields of science, technology, medicine, social sciences, and arts and humanities.
 
 # Steps involved while building the model:
 1-	Get the country name and description from the user
